@@ -37,28 +37,6 @@ D6,Red,D_0603,176.19,-97.6,0.0,top
 D7,Red,D_0603,85.7,-97.366667,0.0,top
 D8,Red,D_0603,85.69,-108.566667,0.0,top
 D9,Red,D_0603,85.7,-99.233333,0.0,top
-G***,LOGO,QR,106.25,-117.55,0.0,bottom
-H1,M2.5 Mount,MountingHole_2.7mm_M2.5_DIN965_Pad_TopOnly,82.0,-92.0,0.0,top
-H2,M2.5 mount,MountingHole_2.7mm_M2.5,174.0,-134.0,0.0,top
-H3,M2.5 mount,MountingHole_2.7mm_M2.5,82.0,-134.0,0.0,top
-H4,M2.5 mount,MountingHole_2.7mm_M2.5,174.0,-92.0,0.0,top
-H5,M2.5 mount,MountingHole_2.7mm_M2.5,103.0,-94.0,0.0,top
-H6,M2.5 mount,MountingHole_2.7mm_M2.5,153.0,-94.0,0.0,top
-H7,~,Hole_Tooling_JLCPCB,79.4,-130.4,0.0,top
-H8,~,Hole_Tooling_JLCPCB,169.7,-90.3,0.0,top
-H9,~,Hole_Tooling_JLCPCB,85.337849,-89.057177,0.0,top
-J1,Chainbus in,PinHeader_2x16_P2.54mm_Vertical_SMD,127.99,-95.538272,270.0,bottom
-J10,Conn_01x02_Pin,PinSocket_1x02_P2.54mm_Vertical,149.6,-129.6,-90.0,top
-J11,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,126.75,-134.2,0.0,top
-J14,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Horizontal,171.8,-116.01,180.0,top
-J15,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,143.05,-134.2,0.0,top
-J2,Chainbus Out,PinSocket_2x16_P2.54mm_Vertical_SMD,128.0,-95.558272,90.0,top
-J3,Conn_01x02_Pin,PinSocket_1x02_P2.54mm_Vertical,131.4,-129.4,-90.0,top
-J4,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,94.15,-134.2,0.0,top
-J5,Conn_01x03_Pin,PinSocket_1x03_P2.54mm_Horizontal,171.8,-126.61,180.0,top
-J6,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,110.45,-134.2,0.0,top
-J7,Conn_01x06_Pin,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,161.85,-134.2,0.0,top
-J9,Conn_01x04_Pin,PinSocket_1x04_P2.54mm_Vertical,151.2,-122.2,0.0,top
 R10,10kΩ,R_0402,136.1,-113.0,0.0,top
 R11,10kΩ,R_0402,120.0,-119.4,0.0,top
 R12,330Ω,R_0402,88.315,-108.571333,180.0,top

@@ -14,18 +14,3 @@ Red,"D10,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D6,D7,D8,D9",D_0603,C22
 SN74CB3Q3384APW,U1,TSSOP-24_4.4x7.8mm_P0.65mm,C469874,1
 TCA9535PWR_C130204,U13,TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL,C130204,1
 TXU0104PWR,"U10,U11,U12,U4,U5,U8",TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL,C2938871,6
-Conn_01x02_Pin,J10,PinSocket_1x02_P2.54mm_Vertical,,1
-Conn_01x04_Pin,J9,PinSocket_1x04_P2.54mm_Vertical,,1
-Chainbus Out,J2,PinSocket_2x16_P2.54mm_Vertical_SMD,,1
-Conn_01x03_Pin,J5,PinSocket_1x03_P2.54mm_Horizontal,,1
-Conn_01x02_Pin,J3,PinSocket_1x02_P2.54mm_Vertical,,1
-~,H8,Hole_Tooling_JLCPCB,,1
-Conn_01x04_Pin,J15,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,,1
-~,H7,Hole_Tooling_JLCPCB,,1
-Conn_01x03_Pin,J14,PinSocket_1x03_P2.54mm_Horizontal,,1
-Conn_01x04_Pin,J11,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,,1
-Conn_01x04_Pin,J4,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,,1
-Conn_01x06_Pin,J7,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,,1
-~,H9,Hole_Tooling_JLCPCB,,1
-Conn_01x04_Pin,J6,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,,1
-Chainbus in,J1,PinHeader_2x16_P2.54mm_Vertical_SMD,,1
